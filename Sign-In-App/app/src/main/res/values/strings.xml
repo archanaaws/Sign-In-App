@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SignInApp</string>
+
+    <string name="tfl_id">TFL ID</string>
+    <string name="tfl_id_placeholder">TFL ID…</string>
+    <string name="password">Password</string>
+    <string name="password_placeholder">Password…</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_error_title">Login Error</string>
+    <string name="login_error_message">Looks like either your Username or Password is incorrect. Please try again.</string>
+    <string name="done">Done</string>
+    <string name="my_tfl">My TfL</string>
+    <string name="name">Name:</string>
+    <string name="role">Role:</string>
+    <string name="office">Office:</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_out_alert_title">Sign Out?</string>
+    <string name="sign_out_alert_message">Are you sure you want to sign out?</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Content Desc-->
+    <string name="tfl_logo_content_desc">Transport For London Logo</string>
+</resources>
