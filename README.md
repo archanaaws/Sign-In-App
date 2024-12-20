@@ -6,3 +6,8 @@ UI tests are written with the Compose Test framework. There are 3 test files in 
 Executes tests:-
 1. On terminal:- ./gradlew connectedAndroidTest :- which will run all UI tests
 2. On IDE:- Open any Test file, next to class name, click run, this will run all tests from that test class.
+   
+
+
+https://github.com/user-attachments/assets/20e86e13-9773-4699-a49f-a5fef5a17551
+
